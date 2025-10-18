@@ -9,6 +9,9 @@ import org.apache.kafka.common.serialization.StringSerializer;
 
 /**
  * <a href="https://practicum.yandex.ru/learn/kafka/courses/83ca50bc-5dce-42cd-b629-997c971f1765/sprints/713562/topics/cfde3128-d6eb-4b4e-ba60-a0999d162a79/lessons/4600901b-93c9-402f-aaee-bb7d538682bf/">Настройка репликации через код</a>
+ * <p>
+ * cluster/zookeeper/docker-compose.yml
+ * </p>
  */
 public class Replication {
 

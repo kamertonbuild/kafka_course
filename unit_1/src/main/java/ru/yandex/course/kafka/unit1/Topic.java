@@ -7,6 +7,9 @@ import org.apache.kafka.clients.admin.NewTopic;
 
 /**
  * <a href="https://practicum.yandex.ru/learn/kafka/courses/83ca50bc-5dce-42cd-b629-997c971f1765/sprints/713562/topics/cfde3128-d6eb-4b4e-ba60-a0999d162a79/lessons/d41fce9c-73cd-4b74-bade-b3765cf9b984/">Создание и конфигурирование топиков</>
+ * <p>
+ * cluster/zookeeper/docker-compose.yml
+ * </p>
  *
  * @see <a href=https://github.com/provectus/kafka-ui/issues/4089>Not all brokers are shown in the brokers page </a>
  */
